@@ -1,0 +1,11 @@
+A working running Jupyter notebook
+
+python libraries
+1.Vpython installed (pip install vpython)
+2.math
+3.Random
+4.ipywidgets
+5.Ipython display
+
+
+Open  a new Vpython file inside Jupyter notebok to run.
